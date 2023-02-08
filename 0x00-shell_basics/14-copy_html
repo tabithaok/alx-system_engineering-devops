@@ -1,2 +1,2 @@
 #!/vin/bash
-cp -un *.html .. 
+cp -un *.html ../ 
